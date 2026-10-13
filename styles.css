@@ -74,7 +74,7 @@ header {
     text-align: center;
 }
 
-narrow {
+.column-narrow {
     width: 30%;
     float: left;
     padding-right: 3%;
