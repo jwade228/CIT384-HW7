@@ -87,10 +87,11 @@ header {
     min-height: 225px;
 }
 
-.profile-img {
-width: 300px;
-height: 300px;
-max-width: 100%;
+.profile-img.column-narrow {
+width: 30%;
+height: auto;
+aspect-ratio: 1/1;
+padding-right: 3%
     border: 5px solid #FF6F61;
 border-radius: 50%;
 object-fit: cover;
