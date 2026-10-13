@@ -74,16 +74,7 @@ header {
     text-align: center;
 }
 
-.profile-img {
-width: 300px;
-height: 300px;
-max-width: 100%;
-    border: 5px solid #FF6F61;
-border-radius: 50%;
-object-fit: cover;
-}
-
-.column-narrow {
+narrow {
     width: 30%;
     float: left;
     padding-right: 3%;
@@ -94,6 +85,15 @@ object-fit: cover;
     width: 70%;
     float: left;
     min-height: 225px;
+}
+
+.profile-img {
+width: 300px;
+height: 300px;
+max-width: 100%;
+    border: 5px solid #FF6F61;
+border-radius: 50%;
+object-fit: cover;
 }
 
 header h2 {
