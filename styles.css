@@ -85,6 +85,7 @@ header {
     width: 70%;
     float: left;
     min-height: 225px;
+    padding-left: 25px;
 }
 
 .profile-img.column-narrow {
@@ -104,9 +105,16 @@ header h2 {
     margin: 0;
 }
 
+header h1 {
+    margin-bottom: 10px;
+}
+
+header h2 {
+    margin-bottom: 20px;
+}
 header p {
-    max-width: 700px;
-    margin: auto;
+    max-width: 600px;
+    margin: 20px auto 0;
     color: #D9E2EC;
 }
 
