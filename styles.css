@@ -90,11 +90,10 @@ header {
 .profile-img.column-narrow {
 width: 30%;
 height: auto;
-padding-right: 3%;
-    border: 5px solid #FF6F61;
+padding-right: 0%;
+    border: 2px solid #FF6F61;
 border-radius: 50%;
-object-fit: contain;
-background-color: #102A43;
+object-fit: cover;
 }
 
 header h2 {
